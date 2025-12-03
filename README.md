@@ -1,6 +1,7 @@
 # UsePopcorn Movie App
 
 This is a movie / series searching web App which displays all the details you are looking for, including:
+usePopcorn is a react application that provides users with a way to explore movies, rate them, and manage their watched movies list. By leveraging the OMDB API (Open Movie Database), the app gains access to an extensive movie database, allowing users to quickly and easily find movie information, including genre, cast, director, ratings, and much more. This application is a part of a course offered by Jonas Schmedtmann. I built the application when i took the course.
 # project view
 ![7](https://github.com/user-attachments/assets/2bfab0b2-b87a-4201-a978-3182794df860)
 ![6](https://github.com/user-attachments/assets/4754c92e-4c3d-4534-9c81-96847f60a432)
