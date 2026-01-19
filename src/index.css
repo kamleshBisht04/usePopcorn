@@ -108,12 +108,12 @@ body {
 }
 
 .box {
-  width: 43rem;
-  max-width: 43rem;
+  width: 42rem;
+  max-width: 42rem;
   background-color: var(--color-background-500);
   border-radius: 0.9rem;
+  overflow: auto;
   position: relative;
-  overflow-y: auto;
 }
 
 .box-movies p {
@@ -195,8 +195,9 @@ body {
 /*list styleing  */
 
 .list {
-  list-style: none;
-  padding: 0.8rem 0;
+     list-style: none;
+    overflow: scroll;
+    padding: .8rem 0;
 }
 
 .list li {
