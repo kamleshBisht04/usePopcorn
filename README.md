@@ -14,6 +14,7 @@ usePopcorn is a react application that provides users with a way to explore movi
 -  Director
 -  Plot
 -  Genre etc.
+-  star ratting component
 # step-by-step view from start
 ![5](https://github.com/user-attachments/assets/766c0523-387a-40c6-9455-d4386cccfc1e)
 ![4](https://github.com/user-attachments/assets/a28fd52f-f579-449a-ac85-9c94fa69e7c6)
